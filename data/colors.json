@@ -1,0 +1,35 @@
+{
+    "licorice": {
+        "name": "Licorice",
+        "hex": "0e0004",
+        "variant": "solid",
+        "type": "primary",
+        "rgb": [14, 0, 4],
+        "cmyk": [0, 100, 71, 95],
+        "hsb": [343, 100, 5],
+        "hsl": [343, 100, 3],
+        "lab": [1, 4, 0]
+    },
+    "dark purple": {
+        "name": "Dark purple",
+        "hex": "31081f",
+        "variant": "solid",
+        "type": "secondary",
+        "rgb": [49, 8, 31],
+        "cmyk": [0, 84, 37, 81],
+        "hsb": [326, 84, 19],
+        "hsl": [326, 72, 11],
+        "lab": [8, 23, -5]
+    },
+    "Rosewood": {
+        "name": "Rosewood",
+        "variant": "solid",
+        "type": "secondary",
+        "hex": "6b0f1a",
+        "rgb": [107, 15, 26],
+        "cmyk": [0, 86, 76, 58],
+        "hsb": [353, 86, 42],
+        "hsl": [353, 75, 24],
+        "lab": [22, 39, 20]
+    }
+}
